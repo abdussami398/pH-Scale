@@ -1,0 +1,186 @@
+body{
+    background-color: grey;
+}
+
+.fir{
+    background-color: aliceblue;
+    margin-left: 10px;
+    height: 80px;
+    padding: 5px;
+    padding-left: 30px;
+    
+}
+
+.fir1{
+    margin-top: 10px;
+    
+    
+}
+
+
+.class1{
+    background-color: rgb(0,136,221);
+    padding-top: 15px;
+    padding-left: 10px;
+    padding-bottom: 5px;
+    
+
+}
+
+.class2{
+    background-color: rgb(0,149,226);
+    padding-top: 15px;
+    padding-left: 10px;
+    padding-bottom: 5px;   
+    margin-top: -16px; 
+}
+
+
+.class3{
+    background-color: rgb(0,160,230);
+    padding-top: 15px;
+    padding-left: 10px;
+    padding-bottom: 5px;   
+    margin-top: -16px; 
+}
+
+
+.class4{
+    background-color: rgb(48,170,233);
+    padding-top: 15px;
+    padding-left: 10px;
+    padding-bottom: 5px;   
+    margin-top: -16px; 
+}
+
+
+.class5{
+    background-color: rgb(84,182,237);
+    padding-top: 15px;
+    padding-left: 10px;
+    padding-bottom: 5px;   
+    margin-top: -16px; 
+
+}
+
+
+.class6{
+    background-color: rgb(114,193,240);
+    padding-top: 15px;
+    padding-left: 10px;
+    padding-bottom: 5px;   
+    margin-top: -16px; 
+}
+
+.class7{
+    background-color: rgb(140,202,242);
+    padding-top: 15px;
+    padding-left: 10px;
+    padding-bottom: 5px;   
+    margin-top: -16px; 
+}
+
+.class8{
+    background-color: rgb(0,187,136);
+    padding-top: 15px;
+    padding-left: 10px;
+    padding-bottom: 5px;   
+    margin-top: -16px; 
+}
+
+
+.class9{
+    background-color: rgb(245,176,204);
+    padding-top: 15px;
+    padding-left: 10px;
+    padding-bottom: 5px;   
+    margin-top: -16px; 
+}
+
+
+.class10{
+    background-color: rgb(246,159,192);
+    padding-top: 15px;
+    padding-left: 10px;
+    padding-bottom: 5px;   
+    margin-top: -16px; 
+}
+
+
+.class11{
+    background-color: rgb(245,140,178);
+    padding-top: 15px;
+    padding-left: 10px;
+    padding-bottom: 5px;   
+    margin-top: -16px; 
+}
+
+
+.class12{
+    background-color: rgb(244,123,166);
+    padding-top: 15px;
+    padding-left: 10px;
+    padding-bottom: 5px;   
+    margin-top: -16px; 
+}
+
+
+.class11{
+    background-color: rgb(255, 155, 189);
+    padding-top: 15px;
+    padding-left: 10px;
+    padding-bottom: 5px;   
+    margin-top: -16px; 
+}
+
+
+.class12{
+    background-color: rgb(245, 84, 135);
+    padding-top: 15px;
+    padding-left: 10px;
+    padding-bottom: 5px;   
+    margin-top: -16px; 
+}
+
+
+.class13{
+    background-color: rgb(246, 43, 117);
+    padding-top: 15px;
+    padding-left: 10px;
+    padding-bottom: 5px;   
+    margin-top: -16px; 
+}
+
+
+.class14{
+    background-color: rgb(240, 26, 104);
+    padding-top: 15px;
+    padding-left: 10px;
+    padding-bottom: 5px;   
+    margin-top: -16px; 
+}
+
+
+.class15{
+    background-color: rgb(209, 11, 84);
+    padding-top: 15px;
+    padding-left: 10px;
+    padding-bottom: 5px;   
+    margin-top: -16px; 
+
+}
+
+.de{
+    padding: 10px;
+    /* padding-top: 20px; */
+
+}
+
+p:hover {
+    font-size: 200%;
+    cursor: pointer;
+}
+
+.fir:hover{
+    font-size: 120%;
+}
